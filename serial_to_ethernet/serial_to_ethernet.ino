@@ -17,10 +17,10 @@
  * Ethernet2.h and EthernetUdp2.h
  */
 
-//#include <Ethernet.h>
-//#include <EthernetUdp.h>
-#include <Ethernet2.h>
-#include <EthernetUdp2.h>
+#include <Ethernet.h>
+#include <EthernetUdp.h>
+//#include <Ethernet2.h>
+//#include <EthernetUdp2.h>
 
 /*
  * Enables debug mode and duplicates everything to USB Serial port
